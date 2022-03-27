@@ -17,6 +17,11 @@ public class WeatherForecastController : ControllerBase
     {
         _logger = logger;
         //merhaba docker
+
+
+
+        //
+
     }
 
     [HttpGet(Name = "GetWeatherForecast")]
